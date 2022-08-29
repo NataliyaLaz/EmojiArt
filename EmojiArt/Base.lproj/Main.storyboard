@@ -40,11 +40,17 @@
                             <outlet property="delegate" destination="kRg-zx-dps" id="bAL-KQ-Ytk"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" id="Cie-r7-8Vk"/>
+                    <navigationItem key="navigationItem" id="Cie-r7-8Vk">
+                        <barButtonItem key="rightBarButtonItem" systemItem="add" id="X6f-st-pOz">
+                            <connections>
+                                <action selector="newEmojiArt:" destination="kRg-zx-dps" id="rHK-wy-Xwo"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ysw-NW-NwZ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="501" y="118"/>
+            <point key="canvasLocation" x="501" y="66"/>
         </scene>
         <!--Emoji Art View Controller-->
         <scene sceneID="tne-QT-ifu">
