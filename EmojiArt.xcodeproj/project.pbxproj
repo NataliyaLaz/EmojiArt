@@ -17,6 +17,7 @@
 		885F419028BCF0BF00ADA33E /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 885F418F28BCF0BF00ADA33E /* Utilities.swift */; };
 		88780C1828BE076700713AC0 /* EmojiCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88780C1728BE076700713AC0 /* EmojiCollectionViewCell.swift */; };
 		88780C1A28BE2F6500713AC0 /* EmojiArtView+Gestures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88780C1928BE2F6500713AC0 /* EmojiArtView+Gestures.swift */; };
+		8889C51628C0927A00596148 /* EmojiArt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8889C51528C0927A00596148 /* EmojiArt.swift */; };
 		889B387C28BD015F0089123C /* EmojiArtDocumentTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 889B387B28BD015F0089123C /* EmojiArtDocumentTableViewController.swift */; };
 		88A3E98D28BF8BBF00880035 /* TextFieldCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88A3E98C28BF8BBF00880035 /* TextFieldCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
@@ -34,6 +35,7 @@
 		885F418F28BCF0BF00ADA33E /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 		88780C1728BE076700713AC0 /* EmojiCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiCollectionViewCell.swift; sourceTree = "<group>"; };
 		88780C1928BE2F6500713AC0 /* EmojiArtView+Gestures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "EmojiArtView+Gestures.swift"; sourceTree = "<group>"; };
+		8889C51528C0927A00596148 /* EmojiArt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiArt.swift; sourceTree = "<group>"; };
 		889B387B28BD015F0089123C /* EmojiArtDocumentTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiArtDocumentTableViewController.swift; sourceTree = "<group>"; };
 		88A3E98C28BF8BBF00880035 /* TextFieldCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -71,6 +73,7 @@
 				885F417C28BCE87100ADA33E /* Main.storyboard */,
 				88A3E98C28BF8BBF00880035 /* TextFieldCollectionViewCell.swift */,
 				889B387B28BD015F0089123C /* EmojiArtDocumentTableViewController.swift */,
+				8889C51528C0927A00596148 /* EmojiArt.swift */,
 				885F418D28BCE96200ADA33E /* EmojiArtView.swift */,
 				885F418B28BCE8E700ADA33E /* EmojiArtViewController.swift */,
 				88780C1728BE076700713AC0 /* EmojiCollectionViewCell.swift */,
@@ -166,6 +169,7 @@
 			files = (
 				88A3E98D28BF8BBF00880035 /* TextFieldCollectionViewCell.swift in Sources */,
 				88780C1828BE076700713AC0 /* EmojiCollectionViewCell.swift in Sources */,
+				8889C51628C0927A00596148 /* EmojiArt.swift in Sources */,
 				88780C1A28BE2F6500713AC0 /* EmojiArtView+Gestures.swift in Sources */,
 				885F417728BCE87100ADA33E /* AppDelegate.swift in Sources */,
 				889B387C28BD015F0089123C /* EmojiArtDocumentTableViewController.swift in Sources */,
